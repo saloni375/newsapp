@@ -17,7 +17,7 @@ export default class Spinner extends Component {
   style={{ 
     width: "80px", 
     height: "80px", 
-    transform: "scale(4)", 
+    transform: "scale(2)", 
     transformOrigin: "center" 
   }} 
 />
