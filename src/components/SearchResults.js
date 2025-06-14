@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
-import Spinner from "./spinner";
+import Spinner from "./Spinner";
 import InfiniteScroll from "react-infinite-scroll-component";
 
 const useQuery = () => {
